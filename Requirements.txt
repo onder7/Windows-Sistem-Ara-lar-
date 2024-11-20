@@ -1,0 +1,4 @@
+psutil>=5.9.0
+pywin32>=305
+Pillow>=9.0.0
+pyinstaller>=5.9.0
