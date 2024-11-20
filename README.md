@@ -54,4 +54,4 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## İletişim
 
-Önder AKÖZ - [GitHub]([**https://github.com/onder7**]))
+Önder AKÖZ - [GitHub](https://github.com/onder7)
