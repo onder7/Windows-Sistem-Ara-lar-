@@ -54,4 +54,4 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 
 ## İletişim
 
-İbrahim Tonca - [GitHub](https://github.com/ibrahimtonca)
+Önder AKÖZ - [GitHub]([**https://github.com/onder7**]))
