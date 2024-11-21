@@ -55,6 +55,18 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 4. Push edin
 5. Pull request açın
 
+   Teknik destek için onder7@gmail.com iletişime geçin.
+Önder AKÖZ / System & Network Specialist
+<div align="center">
+**..:: Onder Monder ::..**
+*Profesyonel IT Çözümleri*
+</div>
+---
+## 📱 İletişim ve Destek
+- 📧 E-posta: [onder7@gmail.com]
+- 🌐 GitHub: [github.com/onder7]
+- 📞 Destek: [+90 541 411 30 22]
+
 İletişim
 --------
 Teknik destek için onder7@gmail.com iletişime geçin.
