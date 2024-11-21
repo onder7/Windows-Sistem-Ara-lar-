@@ -1,8 +1,11 @@
 # Windows Sistem Araçları
 
 Windows sistem yönetim ve bakım işlemlerini kolaylaştıran kapsamlı bir GUI uygulaması.
-![Uygulama Ekran Görüntüsü](ss.jpg)
 
+
+```markdown
+![Açıklama](ss.jpg)
+```
 ## Özellikler
 
 - Sistem Bilgileri Görüntüleme
