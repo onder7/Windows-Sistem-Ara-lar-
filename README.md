@@ -3,9 +3,8 @@
 Windows sistem yönetim ve bakım işlemlerini kolaylaştıran kapsamlı bir GUI uygulaması.
 
 
-```markdown
-![Açıklama](ss.jpg)
-```
+### Ana Ekran
+![Ana Ekran](ss.jpg)
 ## Özellikler
 
 - Sistem Bilgileri Görüntüleme
