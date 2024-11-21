@@ -55,6 +55,7 @@ Bu proje MIT lisansı altında lisanslanmıştır.
 4. Push edin
 5. Pull request açın
 
-## İletişim
-
-Önder AKÖZ - [GitHub](https://github.com/onder7)
+İletişim
+--------
+Teknik destek için onder7@gmail.com iletişime geçin.
+Önder AKÖZ / System & Network Specialist
